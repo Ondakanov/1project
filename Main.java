@@ -10,6 +10,7 @@ public class Main {
         second = num.nextFloat();
         result = first + second;
         System.out.println("Result is - " + result);
+        System.out.println("sdsa");
     }
 
 }
